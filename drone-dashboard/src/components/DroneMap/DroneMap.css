@@ -1,0 +1,11 @@
+.drone-map-canvas {
+  border-radius: 8px;
+  border: 1px solid rgba(0, 245, 255, 0.15);
+  display: block;
+  background: #0a0e1a;
+}
+
+/* Optional: hover glow effect */
+.drone-map-canvas:hover {
+  box-shadow: 0 0 12px rgba(0, 245, 255, 0.15);
+}
