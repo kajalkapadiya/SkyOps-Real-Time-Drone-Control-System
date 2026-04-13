@@ -111,14 +111,21 @@ export function tickDrone(drone) {
 
   // Geofence events — emit ONCE on crossing, not every tick
   const outside = isOutsideGeofence(drone.x, drone.y);
-  if (outside && !drone._wasOutside)
+  if (outside && !drone._wasOutside) {
+    drone.returnToBase = true;
     events.push(
-      addEvent(drone.id, "geofence", `Drone ${drone.id} left geofence`),
+      addEvent(
+        drone.id,
+        "geofence",
+        `Drone ${drone.id} breached geofence — RTB triggered`,
+      ),
     );
-  if (!outside && drone._wasOutside)
+  }
+  if (!outside && drone._wasOutside && !drone.returnToBase) {
     events.push(
       addEvent(drone.id, "recovery", `Drone ${drone.id} re-entered geofence`),
     );
+  }
   drone._wasOutside = outside;
 
   // Battery drain + threshold events
