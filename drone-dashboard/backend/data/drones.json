@@ -1,0 +1,602 @@
+[
+  {
+    "id": "DRN-0001",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0002",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0003",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0004",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0005",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0006",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0007",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0008",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0009",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0010",
+    "fleetId": "fleet-001",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Thermal Camera",
+      "Spotlight"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0011",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0012",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0013",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0014",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0015",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0016",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0017",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0018",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0019",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0020",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0021",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0022",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0023",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0024",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0025",
+    "fleetId": "fleet-002",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "Night Vision",
+      "Zoom Camera"
+    ],
+    "maxFlightTime": 55,
+    "maxSpeed": 23
+  },
+  {
+    "id": "DRN-0026",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0027",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0028",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0029",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0030",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0031",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0032",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0033",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0034",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0035",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0036",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0037",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0038",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0039",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0040",
+    "fleetId": "fleet-003",
+    "model": "Matrice 350 RTK",
+    "manufacturer": "DJI",
+    "payload": [
+      "High Resolution Camera",
+      "LiDAR"
+    ],
+    "maxFlightTime": 45,
+    "maxSpeed": 20
+  },
+  {
+    "id": "DRN-0041",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0042",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0043",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0044",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0045",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0046",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0047",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0048",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0049",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  },
+  {
+    "id": "DRN-0050",
+    "fleetId": "fleet-004",
+    "model": "Delivery Drone",
+    "manufacturer": "Custom",
+    "payload": [
+      "Cargo Box",
+      "Weight Sensor"
+    ],
+    "maxFlightTime": 40,
+    "maxSpeed": 18
+  }
+]
