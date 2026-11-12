@@ -1,0 +1,23 @@
+.drone-marker--active {
+  fill: #35c98b;
+  stroke: #b7f0d7;
+
+  fill-opacity: 0.9;
+  stroke-opacity: 0.9;
+}
+
+.drone-marker--warning {
+  fill: #e6b84f;
+  stroke: #f4df9c;
+
+  fill-opacity: 0.9;
+  stroke-opacity: 0.9;
+}
+
+.drone-marker--critical {
+  fill: #e45d5d;
+  stroke: #ffc0c0;
+
+  fill-opacity: 0.95;
+  stroke-opacity: 0.95;
+}
